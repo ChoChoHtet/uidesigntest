@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_rentCar"
+        android:icon="@drawable/ic_group23"
+        android:title="@string/title_rent_car" />
+
+    <item
+        android:id="@+id/nav_booking"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_booking" />
+    <item
+        android:id="@+id/nav_referFriend"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/title_refer_friend" />
+
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/title_account" />
+
+
+</menu>
